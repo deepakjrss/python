@@ -1,3 +1,9 @@
 string="ABCD"
-print(string[0],string[1],string[2],string[3])
+print([0],string[1],string[2],string[3])
 print(len(string))
+a="hello world"
+print(len(a))
+print(a[8:])
+print(a[1:])
+print(a[:8])
+print(a[:2])
