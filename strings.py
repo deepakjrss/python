@@ -10,4 +10,5 @@ print(a[:2])
 print(a[-1])
 print(a.lower())
 print(a.upper())
-print(a.replace("h","y"))
+print(a.replace("h","y "))
+
